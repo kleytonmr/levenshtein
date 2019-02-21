@@ -10,7 +10,7 @@ By "operations" we mean the insertion, exclusion or substitution of a character.
 ```
 
 ```python
-    from program import Generic
+from program import Generic
 
 class Main:
 
