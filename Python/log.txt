@@ -1,0 +1,16 @@
+index:2, Nome:ana clara de carvalho correa, index:2, nome:agatha rocha da silva 29%
+index:2, Nome:ana clara de carvalho correa, index:3, nome:anna beatriz oliveira santos 25%
+index:2, Nome:ana clara de carvalho correa, index:4, nome:breno alves de paiva 29%
+index:2, Nome:ana clara de carvalho correa, index:5, nome:carlos alexandre cardoso das neves 35%
+index:3, Nome:emylly rauany santos de azevedo, index:2, nome:agatha rocha da silva 23%
+index:3, Nome:emylly rauany santos de azevedo, index:3, nome:anna beatriz oliveira santos 13%
+index:3, Nome:emylly rauany santos de azevedo, index:4, nome:breno alves de paiva 32%
+index:3, Nome:emylly rauany santos de azevedo, index:5, nome:carlos alexandre cardoso das neves 35%
+index:4, Nome:evelyn de azevedo pereira, index:2, nome:agatha rocha da silva 16%
+index:4, Nome:evelyn de azevedo pereira, index:3, nome:anna beatriz oliveira santos 14%
+index:4, Nome:evelyn de azevedo pereira, index:4, nome:breno alves de paiva 36%
+index:4, Nome:evelyn de azevedo pereira, index:5, nome:carlos alexandre cardoso das neves 26%
+index:5, Nome:francielle de souza nunes gomes da silva, index:2, nome:agatha rocha da silva 32%
+index:5, Nome:francielle de souza nunes gomes da silva, index:3, nome:anna beatriz oliveira santos 22%
+index:5, Nome:francielle de souza nunes gomes da silva, index:4, nome:breno alves de paiva 32%
+index:5, Nome:francielle de souza nunes gomes da silva, index:5, nome:carlos alexandre cardoso das neves 22%
