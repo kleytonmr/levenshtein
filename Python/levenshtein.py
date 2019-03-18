@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 def iterative_levenshtein(s, t):
     
     rows = len(s)+1
